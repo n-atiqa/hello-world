@@ -1,2 +1,5 @@
 # hello-world
-test for learning
+
+Hello!
+
+Just learning how to use GitHub :D
